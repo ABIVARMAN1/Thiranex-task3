@@ -48,4 +48,4 @@ Created regression lines to visualize the direct impact of the **Marketing Budge
 ## 🚀 How to Run the Analysis
 1. **Clone the Repo:**
    ```bash
-   git clone [https://github.com/DhanaJayan1918/Restaurant-EDA-Task.git](https://github.com/DhanaJayan1918/Restaurant-EDA-Task.git)
+   git clone [(https://github.com/ABIVARMAN1/Thiranex-task3)](https://github.com/ABIVARMAN1/Thiranex-task3)
